@@ -1,0 +1,12 @@
+{
+    "manifest":
+    {
+        "minSdkVersion": 24,
+        "targetSdkVersion": 31,
+        "debuggable": false,
+        "homeScreen": false,
+        "urlHost": "*",
+        "urlScheme": "http,https"
+    },
+    "autoPermissions": true
+}
