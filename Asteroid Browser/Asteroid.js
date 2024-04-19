@@ -1,3 +1,9 @@
+/* Asteroid Browser
+   Built In : 2021 - 2022
+   Died : 2023(Late Dec)
+   MIT LICENSE @ 2024 - Till Foorever
+*/
+
 cfg.MUI
 cfg.Fast
 
