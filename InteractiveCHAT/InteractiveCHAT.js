@@ -1,3 +1,8 @@
+/* An Answer To :
+   https://groups.google.com/g/androidscript/c/kfQwbqOfSIU
+   MIT LICENSE @ 2024 - Till Forever
+*/
+
 
 cfg.MUI
 
