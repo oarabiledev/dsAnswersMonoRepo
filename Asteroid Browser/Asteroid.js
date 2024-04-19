@@ -1,6 +1,7 @@
 /* Asteroid Browser
    Built In : 2021 - 2022
    Died : 2023(Late Dec)
+   https://asteroid.data.blog/
    MIT LICENSE @ 2024 - Till Foorever
 */
 
